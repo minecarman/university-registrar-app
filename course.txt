@@ -1,0 +1,6 @@
+CENG1007;Data Structures and Algorithms;Mark Twain;4
+CENG1009;Programming Languages;Mark Lutz;3
+CENG9000;Machine Learning;John Wick;2
+CENG4500;Assembly Programming;Tom Love;0
+CENG1001;Embedded Systems;Johnny Bravo;1
+CENG2000;CALCULUS;DENEME;0
